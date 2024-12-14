@@ -7,6 +7,7 @@ const studentRoutes = require('./routes/studentRoutes');
 const sponsorRoutes = require('./routes/sponsorRoutes');
 const courseRoutes = require('./routes/courseRoutes');
 const donationRoutes = require('./routes/donationRoutes');
+const udemyRoutes = require('./routes/udemyRoutes'); // Import the Udemy routes
 
 const app = express();
 
@@ -25,6 +26,7 @@ app.use('/api/students', studentRoutes);
 app.use('/api/sponsors', sponsorRoutes);
 app.use('/api/courses', courseRoutes);
 app.use('/api/donations', donationRoutes);
+app.use('/api/udemy', udemyRoutes); // Add the Udemy routes
 
 // Set up the root route
 app.get('/', (req, res) => {
