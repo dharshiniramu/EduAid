@@ -1,6 +1,6 @@
 **EduAid: Crowd-Funded Learning Platform**
 
-EduAid is a platform designed to bridge the gap between underprivileged students and quality educational resources. It enables sponsors to contribute to students’ learning needs, such as online courses and books, fostering an inclusive and impactful learning ecosystem.
+EduAid is a platform designed to bridge the gap between underprivileged students and quality educational resources. It enables sponsors to contribute to student's learning needs, such as online courses and books, fostering an inclusive and impactful learning ecosystem.
 
 **Features**
 
