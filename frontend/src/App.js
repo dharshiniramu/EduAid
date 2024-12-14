@@ -29,7 +29,7 @@ function App() {
         </nav>
         <div className="search-section">
           <h1>EduAid</h1>
-          <p>Creating efficient and functional humans for your home</p>
+          <p>Creating efficient humans for the society</p>
           <input
             type="text"
             placeholder="Search..."
